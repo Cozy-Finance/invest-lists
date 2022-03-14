@@ -1,0 +1,166 @@
+{
+  "name": "Arbitrum Cozy Community Protection Market List",
+  "logoURI": "https://storage.googleapis.com/subgraph-images/1640362529794cozy-arby.png",
+  "keywords": [
+      "audited",
+      "verified",
+      "special markets"
+  ],
+  "tags": {
+      "stablecoin": {
+          "name": "Stablecoin",
+          "description": "Markets with stablecoins as the underlying"
+      },
+      "rewards": {
+          "name": "Reward Tokens",
+          "description": "Investment opportunities that offer rewards tokens or other incentives for investing"
+      }
+  },
+  "timestamp": "2022-01-24T00:00:00+00:00",
+  "markets": [
+      {
+          "chainId": 42161,
+          "address": "0x7d4377114fd3c61c59d72de48102bf6acd3882b1",
+          "symbol": "Cozy-ETH-1",
+          "name": "Cozy-ETH-1-Curve 3Crypto Trigger",
+          "decimals": 8,
+          "tags": [],
+          "trigger": "0x73ea553cd95211956420329c2c7d23851c577725",
+          "underlying": {
+              "chainId": 1,
+              "decimals": 18,
+              "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+              "name": "Ether",
+              "symbol": "ETH"
+          },
+          "investmentOpportunities": [
+              {
+                  "invest": {
+                      "address": "0x551F34Ba6cd876CAe2265DA1f3e030e82f703A13",
+                      "signature": "function invest(address _ethMarket, uint256 _borrowAmount, uint256 _curveMinAmountOut) external payable"
+                  },
+                  "divest": {
+                      "address": "0x551F34Ba6cd876CAe2265DA1f3e030e82f703A13",
+                      "signature": "function divest(address _ethMarket, address _recipient, uint256 _redeemAmount, uint256 _curveMinAmountOut) external payable"
+                  },
+                  "dataURI": "https://cozy-api-eghd7vdjt-cozy-finance.vercel.app/api/opportunities/arb-eth-tricrypto",
+                  "logoURI": "https://app.cozy.finance/images/tokens/crvtricrypto.png",
+                  "name": "crvTricrypto",
+                  "tokens": {
+                      "input": [
+                          "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+                      ],
+                      "receipt": [
+                          "0x8e0b8c8bb9db49a46697f3a5bb8a308e744821d2"
+                      ],
+                      "rewards": [
+                          "0xd533a949740bb3306d119cc777fa900ba034cd52"
+                      ]
+                  },
+                  "strategy": [
+                      {
+                          "action": "Borrow",
+                          "destination": "ETH",
+                          "logoURI": "https://app.cozy.finance/images/tokens/eth.png",
+                          "platformId": 0,
+                          "token": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+                      },
+                      {
+                          "action": "Deposit to",
+                          "destination": "crvTricrypto",
+                          "logoURI": "https://app.cozy.finance/images/tokens/crvtricrypto.png",
+                          "platformId": 3,
+                          "token": "0x8e0b8c8bb9db49a46697f3a5bb8a308e744821d2"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "chainId": 42161,
+          "address": "0xF8ec0F87036565d6B2B19780A54996c3B03e91Ea",
+          "symbol": "cozyETH",
+          "name": "Cozy Ether",
+          "decimals": 8,
+          "tags": [],
+          "trigger": null,
+          "underlying": {
+              "chainId": 1,
+              "decimals": 18,
+              "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+              "name": "Ether",
+              "symbol": "ETH"
+          },
+          "investmentOpportunities": [
+              {
+                  "invest": {
+                      "address": "0x551F34Ba6cd876CAe2265DA1f3e030e82f703A13",
+                      "signature": "function invest(address _ethMarket, uint256 _borrowAmount, uint256 _curveMinAmountOut) external payable"
+                  },
+                  "divest": {
+                      "address": "0x551F34Ba6cd876CAe2265DA1f3e030e82f703A13",
+                      "signature": "function divest(address _ethMarket, address _recipient, uint256 _redeemAmount, uint256 _curveMinAmountOut) external payable"
+                  },
+                  "dataURI": "https://cozy-api-eghd7vdjt-cozy-finance.vercel.app/api/opportunities/arb-eth-tricrypto",
+                  "logoURI": "https://app.cozy.finance/images/tokens/crvtricrypto.png",
+                  "name": "crvTricrypto",
+                  "tokens": {
+                      "input": [
+                          "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+                      ],
+                      "receipt": [
+                          "0x8e0b8c8bb9db49a46697f3a5bb8a308e744821d2"
+                      ],
+                      "rewards": [
+                          "0xd533a949740bb3306d119cc777fa900ba034cd52"
+                      ]
+                  },
+                  "strategy": [
+                      {
+                          "action": "Borrow",
+                          "destination": "ETH",
+                          "logoURI": "https://app.cozy.finance/images/tokens/eth.png",
+                          "platformId": 0,
+                          "token": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+                      },
+                      {
+                          "action": "Deposit to",
+                          "destination": "crvTricrypto",
+                          "logoURI": "https://app.cozy.finance/images/tokens/crvtricrypto.png",
+                          "platformId": 3,
+                          "token": "0x8e0b8c8bb9db49a46697f3a5bb8a308e744821d2"
+                      }
+                  ]
+              }
+          ]
+      }
+  ],
+  "tokens": {
+      "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee": {
+          "chainId": 1,
+          "decimals": 18,
+          "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+          "name": "Ether",
+          "symbol": "ETH"
+      },
+      "0x8e0b8c8bb9db49a46697f3a5bb8a308e744821d2": {
+          "chainId": 42161,
+          "address": "0x8e0b8c8bb9db49a46697f3a5bb8a308e744821d2",
+          "decimals": 18,
+          "name": "Curve.fi USD-BTC-ETH",
+          "symbol": "crv3crypto"
+      },
+      "0xd533a949740bb3306d119cc777fa900ba034cd52": {
+          "chainId": 1,
+          "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+          "decimals": 18,
+          "name": "Curve DAO Token",
+          "symbol": "CRV"
+      }
+  },
+  "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+  }
+}

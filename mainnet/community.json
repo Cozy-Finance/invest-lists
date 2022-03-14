@@ -1,0 +1,1044 @@
+{
+  "name": "Cozy Community Protection Market List",
+  "logoURI": "https://storage.googleapis.com/subgraph-images/16403642054351621976172144cozy-logo-face.png",
+  "keywords": [
+      "audited",
+      "verified",
+      "special markets"
+  ],
+  "tags": {
+      "stablecoin": {
+          "name": "Stablecoin",
+          "description": "Markets with stablecoins as the underlying"
+      },
+      "rewards": {
+          "name": "Reward Tokens",
+          "description": "Investment opportunities that offer rewards tokens or other incentives for investing"
+      }
+  },
+  "timestamp": "2021-09-01T00:00:00+00:00",
+  "tokens": {
+      "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF": {
+          "address": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
+          "chainId": 1,
+          "decimals": 18,
+          "name": "Alchemix",
+          "symbol": "ALCX"
+      },
+      "0x36ced690a1516861f26755b978ee62c1157cfff9": {
+          "chainId": 1,
+          "address": "0x36ced690a1516861f26755b978ee62c1157cfff9",
+          "decimals": 18,
+          "name": "Curve.fi tBTC/sbtcCrv Convex Deposit",
+          "symbol": "cvxtbtc/sbtcCrv"
+      },
+      "0x7a5dc1fa2e1b10194bd2e2e9f1a224971a681444": {
+          "chainId": 1,
+          "address": "0x7a5dc1fa2e1b10194bd2e2e9f1a224971a681444",
+          "decimals": 18,
+          "name": "Curve.fi USDP/3Crv Convex Deposit",
+          "symbol": "cvxusdp3CRV"
+      },
+      "0xd533a949740bb3306d119cc777fa900ba034cd52": {
+          "chainId": 1,
+          "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+          "decimals": 18,
+          "name": "Curve DAO Token",
+          "symbol": "CRV"
+      },
+      "0x64eda51d3Ad40D56b9dFc5554E06F94e1Dd786Fd": {
+          "address": "0x64eda51d3Ad40D56b9dFc5554E06F94e1Dd786Fd",
+          "chainId": 1,
+          "decimals": 18,
+          "name": "Curve.fi tBTC/sbtcCrv",
+          "symbol": "tbtc/sbtcCrv"
+      },
+      "0xc4ad29ba4b3c580e6d59105fff484999997675ff": {
+          "chainId": 1,
+          "decimals": 18,
+          "address": "0xc4ad29ba4b3c580e6d59105fff484999997675ff",
+          "name": "Curve.fi USD-BTC-ETH ",
+          "symbol": "crv3crypto"
+      },
+      "0x4f3E8F405CF5aFC05D68142F3783bDfE13811522": {
+          "address": "0x4f3E8F405CF5aFC05D68142F3783bDfE13811522",
+          "chainId": 1,
+          "decimals": 18,
+          "name": "Curve.fi USDN/3Crv",
+          "symbol": "usdn3CRV"
+      },
+      "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b": {
+          "chainId": 1,
+          "address": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+          "decimals": 18,
+          "name": "Convex Token",
+          "symbol": "CVX"
+      },
+      "0x6b175474e89094c44da98b954eedeac495271d0f": {
+          "chainId": 1,
+          "decimals": 18,
+          "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+          "name": "Dai Stablecoin",
+          "symbol": "DAI"
+      },
+      "0x92e187a03b6cd19cb6af293ba17f2745fd2357d5": {
+          "chainId": 1,
+          "address": "0x92e187a03b6cd19cb6af293ba17f2745fd2357d5",
+          "decimals": 18,
+          "name": "Unit Protocol",
+          "symbol": "DUCK"
+      },
+      "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee": {
+          "chainId": 1,
+          "decimals": 18,
+          "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+          "name": "Ether",
+          "symbol": "ETH"
+      },
+      "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec": {
+          "address": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
+          "chainId": 1,
+          "decimals": 18,
+          "name": "KEEP Token",
+          "symbol": "KEEP"
+      },
+      "0x0833cfcb11A5ba89FbAF73a407831c98aD2D7648": {
+          "chainId": 1,
+          "decimals": 18,
+          "address": "0x0833cfcb11A5ba89FbAF73a407831c98aD2D7648",
+          "name": "Rari DAI Pool Token",
+          "symbol": "RDPT"
+      },
+      "0x016bf078ABcaCB987f0589a6d3BEAdD4316922B0": {
+          "chainId": 1,
+          "decimals": 18,
+          "address": "0x016bf078ABcaCB987f0589a6d3BEAdD4316922B0",
+          "name": "Rari Stable Pool Token",
+          "symbol": "RSPT"
+      },
+      "0x25751853Eab4D0eB3652B5eB6ecB102A2789644B": {
+          "chainId": 1,
+          "address": "0x25751853Eab4D0eB3652B5eB6ecB102A2789644B",
+          "decimals": 18,
+          "name": "Ribbon ETH Theta Vault",
+          "symbol": "rETH-THETA"
+      },
+      "0xc9da65931abf0ed1b74ce5ad8c041c4220940368": {
+          "address": "0xc9da65931abf0ed1b74ce5ad8c041c4220940368",
+          "chainId": 1,
+          "decimals": 18,
+          "name": "Saddle WETH/alETH/sETH",
+          "symbol": "saddlealETH"
+      },
+      "0xf1dc500fde233a4055e25e5bbf516372bc4f6871": {
+          "chainId": 1,
+          "address": "0xf1dc500fde233a4055e25e5bbf516372bc4f6871",
+          "decimals": 18,
+          "name": "Saddle DAO",
+          "symbol": "SDL"
+      },
+      "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48": {
+          "chainId": 1,
+          "decimals": 6,
+          "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "name": "USD Coin",
+          "symbol": "USDC"
+      },
+      "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": {
+          "chainId": 1,
+          "decimals": 8,
+          "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+          "name": "Wrapped BTC",
+          "symbol": "WBTC"
+      },
+      "0x3B96d491f067912D18563d56858Ba7d6EC67a6fa": {
+          "address": "0x3B96d491f067912D18563d56858Ba7d6EC67a6fa",
+          "chainId": 1,
+          "decimals": 18,
+          "name": "Curve USDN Pool yVault",
+          "symbol": "yvCurve-USDN"
+      },
+      "0xE537B5cc158EB71037D4125BDD7538421981E6AA": {
+          "address": "0xE537B5cc158EB71037D4125BDD7538421981E6AA",
+          "chainId": 1,
+          "decimals": 18,
+          "name": "Curve 3Crypto Pool yVault",
+          "symbol": "yvCurve-3Crypto"
+      },
+      "0x5f18C75AbDAe578b483E5F43f12a39cF75b973a9": {
+          "address": "0x5f18C75AbDAe578b483E5F43f12a39cF75b973a9",
+          "chainId": 1,
+          "decimals": 18,
+          "name": "USDC yVault",
+          "symbol": "yvUSDC"
+      }
+  },
+  "markets": [
+      {
+          "chainId": 1,
+          "address": "0x43647239ede197099b57bf72d0373f8049acfb0f",
+          "symbol": "Cozy-ETH-3",
+          "name": "Cozy-ETH-3-Yearn Curve 3Crypto Trigger",
+          "decimals": 8,
+          "tags": [],
+          "trigger": "0xbc4f34c71c95ff8c47bbf54e6b221fdb98aced5c",
+          "underlying": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+          "investmentOpportunities": [
+              {
+                  "invest": {
+                      "address": "0xAD1DeCE83577148ff2039623B63412B57B3bE926",
+                      "signature": "function invest(address _ethMarket, uint256 _borrowAmount, uint256 _curveMinAmountOut) external payable"
+                  },
+                  "divest": {
+                      "address": "0xAD1DeCE83577148ff2039623B63412B57B3bE926",
+                      "signature": "function divest(address _ethMarket, address _recipient, uint256 _yearnRedeemAmount, uint256 _curveMinAmountOut) external payable"
+                  },
+                  "dataURI": "https://cozy-api-eghd7vdjt-cozy-finance.vercel.app/api/opportunities/eth-3c-yearn",
+                  "logoURI": "https://app.cozy.finance/images/tokens/crvtricrypto.png",
+                  "name": "crvTricrypto",
+                  "tokens": {
+                      "input": [
+                          "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+                      ],
+                      "receipt": [
+                          "0xc4ad29ba4b3c580e6d59105fff484999997675ff"
+                      ],
+                      "rewards": []
+                  },
+                  "strategy": [
+                      {
+                          "action": "Borrow",
+                          "destination": "ETH",
+                          "logoURI": "https://app.cozy.finance/images/tokens/eth.png",
+                          "platformId": 0,
+                          "token": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+                      },
+                      {
+                          "action": "Deposit for",
+                          "destination": "crvTricrypto",
+                          "logoURI": "https://app.cozy.finance/images/tokens/crvtricrypto.png",
+                          "platformId": 3,
+                          "token": "0xc4ad29ba4b3c580e6d59105fff484999997675ff"
+                      },
+                      {
+                          "action": "Deposit to",
+                          "destination": "Yearn",
+                          "logoURI": "https://app.cozy.finance/images/platforms/yearn.png",
+                          "platformId": 1,
+                          "token": "0xE537B5cc158EB71037D4125BDD7538421981E6AA"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "chainId": 1,
+          "address": "0xAeF3f76e426D2f0139EAeCd19672Dd9C9A3fC582",
+          "symbol": "Cozy-DAI-1",
+          "name": "Cozy-DAI-1-Rari DAI Trigger",
+          "decimals": 8,
+          "tags": [],
+          "trigger": "0x92D165D7777Fb13BbD45a2153D2b78eB38162A96",
+          "underlying": "0x6b175474e89094c44da98b954eedeac495271d0f",
+          "investmentOpportunities": [
+              {
+                  "invest": {
+                      "address": "0x6aA2256140FbCb1aC03cFfA8ec4308aC8aa41c95",
+                      "signature": "function invest(address _marketAddress, uint256 _borrowAmount) external"
+                  },
+                  "divest": {
+                      "address": "0x6aA2256140FbCb1aC03cFfA8ec4308aC8aa41c95",
+                      "signature": "function divest(address _marketAddress, address _recipient, uint256 _withdrawAmount, uint256 _excessTokens) external"
+                  },
+                  "dataURI": "https://cozy-api-eghd7vdjt-cozy-finance.vercel.app/api/opportunities/dai-rari",
+                  "logoURI": "https://app.cozy.finance/images/tokens/dai.png",
+                  "tokens": {
+                      "input": [
+                          "0x6b175474e89094c44da98b954eedeac495271d0f"
+                      ],
+                      "receipt": [
+                          "0x0833cfcb11A5ba89FbAF73a407831c98aD2D7648"
+                      ],
+                      "rewards": []
+                  },
+                  "strategy": [
+                      {
+                          "action": "Borrow",
+                          "destination": "DAI",
+                          "logoURI": "https://app.cozy.finance/images/tokens/dai.png",
+                          "platformId": 0,
+                          "token": "0x6b175474e89094c44da98b954eedeac495271d0f"
+                      },
+                      {
+                          "action": "Deposit to",
+                          "destination": "Rari",
+                          "logoURI": "https://app.cozy.finance/images/platforms/rari.png",
+                          "platformId": 10,
+                          "token": "0x0833cfcb11A5ba89FbAF73a407831c98aD2D7648"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "chainId": 1,
+          "address": "0x97f84825d16b32ca97afC1c8bf51ab1086bcFf1F",
+          "symbol": "Cozy-USDC-4",
+          "name": "Cozy-USDC-4-Rari USDC Trigger",
+          "decimals": 8,
+          "tags": [],
+          "trigger": "0x0290A452FA21e026e07C30b358151C3D0fA079bE",
+          "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "investmentOpportunities": [
+              {
+                  "invest": {
+                      "address": "0x618c91d02e2F27341870181015a39C8aB59e66d0",
+                      "signature": "function invest(address _marketAddress, uint256 _borrowAmount) external"
+                  },
+                  "divest": {
+                      "address": "0x618c91d02e2F27341870181015a39C8aB59e66d0",
+                      "signature": "function divest(address _marketAddress, address _recipient, uint256 _withdrawAmount, uint256 _excessTokens) external"
+                  },
+                  "dataURI": "https://cozy-api-eghd7vdjt-cozy-finance.vercel.app/api/opportunities/usdc-rari",
+                  "logoURI": "https://app.cozy.finance/images/tokens/usdc.png",
+                  "tokens": {
+                      "input": [
+                          "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+                      ],
+                      "receipt": [
+                          "0x016bf078ABcaCB987f0589a6d3BEAdD4316922B0"
+                      ],
+                      "rewards": []
+                  },
+                  "strategy": [
+                      {
+                          "action": "Borrow",
+                          "destination": "USD Coin",
+                          "logoURI": "https://app.cozy.finance/images/tokens/usdc.png",
+                          "platformId": 0,
+                          "token": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+                      },
+                      {
+                          "action": "Deposit to",
+                          "destination": "Rari",
+                          "logoURI": "https://app.cozy.finance/images/platforms/rari.png",
+                          "platformId": 10,
+                          "token": "0x016bf078ABcaCB987f0589a6d3BEAdD4316922B0"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "chainId": 1,
+          "address": "0xb9351DCD5347a67A1A2e0e72C1d069fb1F2E1d65",
+          "symbol": "Cozy-ETH-2",
+          "name": "Cozy-ETH-2-Saddle alETH Trigger",
+          "decimals": 8,
+          "tags": [],
+          "trigger": "0x85A2ac16181C158F818d25c49bf0D383Edf37684",
+          "underlying": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+          "investmentOpportunities": [
+              {
+                  "invest": {
+                      "address": "0x088358e47163932Fd18bae1Fb5ea9340de91d3A2",
+                      "signature": "function invest(address _market,uint256 _borrowAmount,uint256 _minToMint,uint256 _deadline) external"
+                  },
+                  "divest": {
+                      "address": "0x088358e47163932Fd18bae1Fb5ea9340de91d3A2",
+                      "signature": "function divest(address _marketAddress,address _recipient,uint256 _withdrawAmount,uint256 _minWithdrawAmount,uint256 _deadline) external payable"
+                  },
+                  "claimAirdrop": {
+                      "address": "0x5DCA270671935cf3dF78bd8373C22BE250198a03",
+                      "signature": "function verifyAndClaimReward(address account, uint256 totalAmount, bytes32[] merkleProof)"
+                  },
+                  "dataURI": "https://cozy-api-eghd7vdjt-cozy-finance.vercel.app/api/opportunities/eth-saddle-alcx",
+                  "logoURI": "https://app.cozy.finance/images/tokens/eth.png",
+                  "tokens": {
+                      "input": [
+                          "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+                      ],
+                      "receipt": [
+                          "0xc9da65931abf0ed1b74ce5ad8c041c4220940368"
+                      ],
+                      "rewards": [
+                          "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF"
+                      ]
+                  },
+                  "strategy": [
+                      {
+                          "action": "Borrow",
+                          "destination": "Ether",
+                          "logoURI": "https://app.cozy.finance/images/tokens/eth.png",
+                          "platformId": 0,
+                          "token": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+                      },
+                      {
+                          "action": "Deposit to",
+                          "destination": "Saddle",
+                          "logoURI": "https://app.cozy.finance/images/platforms/saddle.png",
+                          "platformId": 7,
+                          "token": "0xc9da65931abf0ed1b74ce5ad8c041c4220940368"
+                      },
+                      {
+                          "action": "Stake on",
+                          "destination": "Alchemix",
+                          "logoURI": "https://app.cozy.finance/images/platforms/alchemix.png",
+                          "platformId": 8,
+                          "token": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "chainId": 1,
+          "address": "0x9affB6D8568cEfa2837d251b1553967430D1a5e5",
+          "symbol": "Cozy-USDC-2",
+          "name": "Cozy-USDC-2-Yearn USDC V2 Vault Share Price Trigger",
+          "decimals": 8,
+          "tags": [],
+          "trigger": "0x02E57c5800a345Fe97d73fA8bB72B948E19aA499",
+          "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "investmentOpportunities": [
+              {
+                  "invest": {
+                      "address": "0x499A69D31f9c87792A873C6503af17bf9EE372bF",
+                      "signature": "function invest(address _market, uint256 _borrowAmount) external"
+                  },
+                  "divest": {
+                      "address": "0x499A69D31f9c87792A873C6503af17bf9EE372bF",
+                      "signature": "function divest(address _market, address _recipient, uint256 _yearnRedeemAmount, uint256 _excessTokens) external"
+                  },
+                  "dataURI": "https://cozy-api-eghd7vdjt-cozy-finance.vercel.app/api/opportunities/usdc-yearn",
+                  "logoURI": "https://app.cozy.finance/images/tokens/usdc.png",
+                  "tokens": {
+                      "input": [
+                          "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+                      ],
+                      "receipt": [
+                          "0x5f18C75AbDAe578b483E5F43f12a39cF75b973a9"
+                      ],
+                      "rewards": []
+                  },
+                  "strategy": [
+                      {
+                          "action": "Borrow",
+                          "destination": "USD Coin",
+                          "logoURI": "https://app.cozy.finance/images/tokens/usdc.png",
+                          "platformId": 0,
+                          "token": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+                      },
+                      {
+                          "action": "Deposit to",
+                          "destination": "Yearn",
+                          "logoURI": "https://app.cozy.finance/images/platforms/yearn.png",
+                          "platformId": 1,
+                          "token": "0x5f18C75AbDAe578b483E5F43f12a39cF75b973a9"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "chainId": 1,
+          "address": "0x11581582Aa816c8293e67c726AF49Fc2C8b98C6e",
+          "symbol": "Cozy-USDC-3",
+          "name": "Cozy-USDC-3-Yearn V2 Curve USDN Trigger",
+          "decimals": 8,
+          "tags": [],
+          "trigger": "0xfbaf68fab5871317cda32c9a29cd9e81082edb16",
+          "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "investmentOpportunities": [
+              {
+                  "invest": {
+                      "address": "0x97c3Cc126D64D2231c5893cBC8a9EE97057Bb9d1",
+                      "signature": "function invest(address _market, uint256 _borrowAmount, uint256 _curveMinAmountOut) external"
+                  },
+                  "divest": {
+                      "address": "0x97c3Cc126D64D2231c5893cBC8a9EE97057Bb9d1",
+                      "signature": "function divest(address _market, address _recipient, uint256 _yearnRedeemAmount, uint256 _curveMinAmountOut, uint256 _excessTokens) external"
+                  },
+                  "dataURI": "https://cozy-api-eghd7vdjt-cozy-finance.vercel.app/api/opportunities/usdc-crvusdn-yearn",
+                  "logoURI": "https://app.cozy.finance/images/tokens/crvusdn.png",
+                  "name": "crvUSDN",
+                  "tokens": {
+                      "input": [
+                          "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+                      ],
+                      "receipt": [],
+                      "rewards": []
+                  },
+                  "strategy": [
+                      {
+                          "action": "Borrow",
+                          "destination": "USDC",
+                          "logoURI": "https://app.cozy.finance/images/tokens/usdc.png",
+                          "platformId": 0,
+                          "token": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+                      },
+                      {
+                          "action": "Deposit for",
+                          "destination": "crvUSDN",
+                          "logoURI": "https://app.cozy.finance/images/tokens/crvusdn.png",
+                          "platformId": 3,
+                          "token": "0x4f3E8F405CF5aFC05D68142F3783bDfE13811522"
+                      },
+                      {
+                          "action": "Deposit to",
+                          "destination": "Yearn",
+                          "logoURI": "https://app.cozy.finance/images/platforms/yearn.png",
+                          "platformId": 1,
+                          "token": "0x3B96d491f067912D18563d56858Ba7d6EC67a6fa"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "chainId": 1,
+          "address": "0x8c83B281fa131360Fc90A83397A3AFa5c1d8E8a7",
+          "symbol": "Cozy-USDC-5",
+          "name": "Cozy-USDC-5-Convex Curve USDP Trigger",
+          "decimals": 8,
+          "tags": [],
+          "trigger": "0xcBa30C31a458c0a0bD13AC80C8BeA90f145AdD2E",
+          "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "investmentOpportunities": [
+              {
+                  "invest": {
+                      "address": "0x08797B4C6d7E5A8d28C6d01070aEE73AC5Be9740",
+                      "signature": "function invest(address _market, uint256 _borrowAmount, uint256 _minAmountOut) external"
+                  },
+                  "divest": {
+                      "address": "0x08797B4C6d7E5A8d28C6d01070aEE73AC5Be9740",
+                      "signature": "function divest(address _marketAddress, address _recipient, uint256 _withdrawAmount, uint256 _excessTokens, uint256 _curveMinAmountOut) external"
+                  },
+                  "dataURI": "https://cozy-api-eghd7vdjt-cozy-finance.vercel.app/api/opportunities/usdc-usdp-convex",
+                  "logoURI": "https://app.cozy.finance/images/tokens/crvusdp.png",
+                  "name": "crvUSDP",
+                  "tokens": {
+                      "input": [
+                          "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+                      ],
+                      "receipt": [
+                          "0x7a5dc1fa2e1b10194bd2e2e9f1a224971a681444"
+                      ],
+                      "rewards": [
+                          "0xd533a949740bb3306d119cc777fa900ba034cd52",
+                          "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+                          "0x92e187a03b6cd19cb6af293ba17f2745fd2357d5"
+                      ]
+                  },
+                  "strategy": [
+                      {
+                          "action": "Borrow",
+                          "destination": "USDC",
+                          "logoURI": "https://app.cozy.finance/images/tokens/usdc.png",
+                          "platformId": 0,
+                          "token": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+                      },
+                      {
+                          "action": "Deposit for",
+                          "destination": "crvUSDP",
+                          "logoURI": "https://app.cozy.finance/images/tokens/crvusdp.png",
+                          "platformId": 3,
+                          "token": "0x4f3E8F405CF5aFC05D68142F3783bDfE13811522"
+                      },
+                      {
+                          "action": "Deposit to",
+                          "destination": "Convex",
+                          "logoURI": "https://app.cozy.finance/images/platforms/convex.png",
+                          "platformId": 12,
+                          "token": "0x7a5dc1fa2e1b10194bd2e2e9f1a224971a681444"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "chainId": 1,
+          "address": "0x43c97FCeadD7DBB1Cf1Fab54bD8f467165A42461",
+          "symbol": "Cozy-TBTC-1",
+          "name": "Cozy-USDC-1-Convex Curve TBTC Trigger",
+          "decimals": 8,
+          "tags": [],
+          "trigger": "0x0F8e74862aD9c575A5d6840A3449e44E900ACEF9",
+          "underlying": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+          "investmentOpportunities": [
+              {
+                  "invest": {
+                      "address": "0x91411D41F3A8822a14912eb71E6e57EF4329cFee",
+                      "signature": "function invest(address _market, uint256 _borrowAmount, uint256 _minAmountOut) external;"
+                  },
+                  "divest": {
+                      "address": "0x91411D41F3A8822a14912eb71E6e57EF4329cFee",
+                      "signature": "function divest(address _marketAddress, address _recipient, uint256 _withdrawAmount, uint256 _excessTokens, uint256 _curveMinAmountOut) external"
+                  },
+                  "dataURI": "https://cozy-api-eghd7vdjt-cozy-finance.vercel.app/api/opportunities/wbtc-tbtc-convex",
+                  "logoURI": "https://app.cozy.finance/images/tokens/crvtbtc.png",
+                  "name": "crvTBTC",
+                  "tokens": {
+                      "input": [
+                          "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
+                      ],
+                      "receipt": [
+                          "0x36ced690a1516861f26755b978ee62c1157cfff9"
+                      ],
+                      "rewards": [
+                          "0xd533a949740bb3306d119cc777fa900ba034cd52",
+                          "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+                          "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec"
+                      ]
+                  },
+                  "strategy": [
+                      {
+                          "action": "Borrow",
+                          "destination": "WBTC",
+                          "logoURI": "https://app.cozy.finance/images/tokens/wbtc.png",
+                          "platformId": 0,
+                          "token": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
+                      },
+                      {
+                          "action": "Deposit for",
+                          "destination": "crvTBTC",
+                          "logoURI": "https://app.cozy.finance/images/tokens/crvtbtc.png",
+                          "platformId": 3,
+                          "token": "0x64eda51d3Ad40D56b9dFc5554E06F94e1Dd786Fd"
+                      },
+                      {
+                          "action": "Deposit to",
+                          "destination": "Convex",
+                          "logoURI": "https://app.cozy.finance/images/platforms/convex.png",
+                          "platformId": 12,
+                          "token": "0x36ced690a1516861f26755b978ee62c1157cfff9"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "chainId": 1,
+          "address": "0x40340fdce2310fdea42589c4a9fe029f1ed80730",
+          "symbol": "Cozy-ETH-4",
+          "name": "Cozy-ETH-4-Ribbon T-ETH-C Trigger",
+          "decimals": 8,
+          "tags": [],
+          "trigger": "0x72058A5eB6100f5AAb2f33eCEd4E83088Daeb06E",
+          "underlying": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+          "investmentOpportunities": [
+              {
+                  "invest": {
+                      "address": "0xF8C616bDEc0e6B9FE30209405E4D89CaeC3364F0",
+                      "signature": "function invest(address _market, uint256 _borrowAmount) external"
+                  },
+                  "divest": {
+                      "address": "0xF8C616bDEc0e6B9FE30209405E4D89CaeC3364F0",
+                      "signature": "function divest(uint256 _numShares) external"
+                  },
+                  "dataURI": "https://cozy-api-eghd7vdjt-cozy-finance.vercel.app/api/opportunities/eth-tethc-ribbon",
+                  "tokens": {
+                      "input": [
+                          "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+                      ],
+                      "receipt": [
+                          "0x25751853Eab4D0eB3652B5eB6ecB102A2789644B"
+                      ],
+                      "rewards": []
+                  },
+                  "strategy": [
+                      {
+                          "action": "Borrow",
+                          "destination": "Ether",
+                          "logoURI": "https://app.cozy.finance/images/tokens/eth.png",
+                          "platformId": 0,
+                          "token": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+                      },
+                      {
+                          "action": "Deposit to",
+                          "destination": "Ribbon",
+                          "logoURI": "https://app.cozy.finance/images/platforms/ribbon.png",
+                          "platformId": 9,
+                          "token": "0x25751853Eab4D0eB3652B5eB6ecB102A2789644B"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "chainId": 1,
+          "address": "0xF8ec0F87036565d6B2B19780A54996c3B03e91Ea",
+          "symbol": "cozyETH",
+          "name": "Cozy Ether",
+          "decimals": 8,
+          "tags": [],
+          "trigger": null,
+          "underlying": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+          "investmentOpportunities": [
+              {
+                  "invest": {
+                      "address": "0xAD1DeCE83577148ff2039623B63412B57B3bE926",
+                      "signature": "function invest(address _ethMarket, uint256 _borrowAmount, uint256 _curveMinAmountOut) external payable"
+                  },
+                  "divest": {
+                      "address": "0xAD1DeCE83577148ff2039623B63412B57B3bE926",
+                      "signature": "function divest(address _ethMarket, address _recipient, uint256 _yearnRedeemAmount, uint256 _curveMinAmountOut) external payable"
+                  },
+                  "dataURI": "https://cozy-api-eghd7vdjt-cozy-finance.vercel.app/api/opportunities/eth-3c-yearn",
+                  "logoURI": "https://app.cozy.finance/images/tokens/crvtricrypto.png",
+                  "name": "crvTricrypto",
+                  "tokens": {
+                      "input": [
+                          "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+                      ],
+                      "receipt": [
+                          "0xc4ad29ba4b3c580e6d59105fff484999997675ff"
+                      ],
+                      "rewards": []
+                  },
+                  "strategy": [
+                      {
+                          "action": "Borrow",
+                          "destination": "ETH",
+                          "logoURI": "https://app.cozy.finance/images/tokens/eth.png",
+                          "platformId": 0,
+                          "token": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+                      },
+                      {
+                          "action": "Deposit for",
+                          "destination": "crvTricrypto",
+                          "logoURI": "https://app.cozy.finance/images/tokens/crvtricrypto.png",
+                          "platformId": 3,
+                          "token": "0xc4ad29ba4b3c580e6d59105fff484999997675ff"
+                      },
+                      {
+                          "action": "Deposit to",
+                          "destination": "Yearn",
+                          "logoURI": "https://app.cozy.finance/images/platforms/yearn.png",
+                          "platformId": 1,
+                          "token": "0xE537B5cc158EB71037D4125BDD7538421981E6AA"
+                      }
+                  ]
+              },
+              {
+                  "invest": {
+                      "address": "0x088358e47163932Fd18bae1Fb5ea9340de91d3A2",
+                      "signature": "function invest(address _market,uint256 _borrowAmount,uint256 _minToMint,uint256 _deadline) external"
+                  },
+                  "divest": {
+                      "address": "0x088358e47163932Fd18bae1Fb5ea9340de91d3A2",
+                      "signature": "function divest(address _marketAddress,address _recipient,uint256 _withdrawAmount,uint256 _minWithdrawAmount,uint256 _deadline) external payable"
+                  },
+                  "claimAirdrop": {
+                      "address": "0x5DCA270671935cf3dF78bd8373C22BE250198a03",
+                      "signature": "function verifyAndClaimReward(address account, uint256 totalAmount, bytes32[] merkleProof)"
+                  },
+                  "dataURI": "https://cozy-api-eghd7vdjt-cozy-finance.vercel.app/api/opportunities/eth-saddle-alcx",
+                  "logoURI": "https://app.cozy.finance/images/tokens/eth.png",
+                  "tokens": {
+                      "input": [
+                          "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+                      ],
+                      "receipt": [
+                          "0xc9da65931abf0ed1b74ce5ad8c041c4220940368"
+                      ],
+                      "rewards": [
+                          "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF"
+                      ]
+                  },
+                  "strategy": [
+                      {
+                          "action": "Borrow",
+                          "destination": "Ether",
+                          "logoURI": "https://app.cozy.finance/images/tokens/eth.png",
+                          "platformId": 0,
+                          "token": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+                      },
+                      {
+                          "action": "Deposit to",
+                          "destination": "Saddle",
+                          "logoURI": "https://app.cozy.finance/images/platforms/saddle.png",
+                          "platformId": 7,
+                          "token": "0xc9da65931abf0ed1b74ce5ad8c041c4220940368"
+                      },
+                      {
+                          "action": "Stake on",
+                          "destination": "Alchemix",
+                          "logoURI": "https://app.cozy.finance/images/platforms/alchemix.png",
+                          "platformId": 8,
+                          "token": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF"
+                      }
+                  ]
+              },
+              {
+                  "invest": {
+                      "address": "0xF8C616bDEc0e6B9FE30209405E4D89CaeC3364F0",
+                      "signature": "function invest(address _market, uint256 _borrowAmount) external"
+                  },
+                  "divest": {
+                      "address": "0xF8C616bDEc0e6B9FE30209405E4D89CaeC3364F0",
+                      "signature": "function divest(uint256 _numShares) external"
+                  },
+                  "dataURI": "https://cozy-api-eghd7vdjt-cozy-finance.vercel.app/api/opportunities/eth-tethc-ribbon",
+                  "tokens": {
+                      "input": [
+                          "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+                      ],
+                      "receipt": [
+                          "0x25751853Eab4D0eB3652B5eB6ecB102A2789644B"
+                      ],
+                      "rewards": []
+                  },
+                  "strategy": [
+                      {
+                          "action": "Borrow",
+                          "destination": "Ether",
+                          "logoURI": "https://app.cozy.finance/images/tokens/eth.png",
+                          "platformId": 0,
+                          "token": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+                      },
+                      {
+                          "action": "Deposit to",
+                          "destination": "Ribbon",
+                          "logoURI": "https://app.cozy.finance/images/platforms/ribbon.png",
+                          "platformId": 9,
+                          "token": "0x25751853Eab4D0eB3652B5eB6ecB102A2789644B"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "chainId": 1,
+          "address": "0xe6EF65EC40D943c3f675165B0b17e06862Fe3d82",
+          "symbol": "cozyDAI",
+          "name": "Cozy Dai",
+          "decimals": 8,
+          "tags": [],
+          "trigger": null,
+          "underlying": "0x6b175474e89094c44da98b954eedeac495271d0f",
+          "investmentOpportunities": [
+              {
+                  "invest": {
+                      "address": "0x6aA2256140FbCb1aC03cFfA8ec4308aC8aa41c95",
+                      "signature": "function invest(address _marketAddress, uint256 _borrowAmount) external"
+                  },
+                  "divest": {
+                      "address": "0x6aA2256140FbCb1aC03cFfA8ec4308aC8aa41c95",
+                      "signature": "function divest(address _marketAddress, address _recipient, uint256 _withdrawAmount, uint256 _excessTokens) external"
+                  },
+                  "dataURI": "https://cozy-api-eghd7vdjt-cozy-finance.vercel.app/api/opportunities/dai-rari",
+                  "logoURI": "https://app.cozy.finance/images/tokens/dai.png",
+                  "tokens": {
+                      "input": [
+                          "0x6b175474e89094c44da98b954eedeac495271d0f"
+                      ],
+                      "receipt": [
+                          "0x0833cfcb11A5ba89FbAF73a407831c98aD2D7648"
+                      ],
+                      "rewards": []
+                  },
+                  "strategy": [
+                      {
+                          "action": "Borrow",
+                          "destination": "DAI",
+                          "logoURI": "https://app.cozy.finance/images/tokens/dai.png",
+                          "platformId": 0,
+                          "token": "0x6b175474e89094c44da98b954eedeac495271d0f"
+                      },
+                      {
+                          "action": "Deposit to",
+                          "destination": "Rari",
+                          "logoURI": "https://app.cozy.finance/images/platforms/rari.png",
+                          "platformId": 10,
+                          "token": "0x0833cfcb11A5ba89FbAF73a407831c98aD2D7648"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "chainId": 1,
+          "address": "0xdBDF2fC3Af896e18f2A9DC58883d12484202b57E",
+          "symbol": "cozyUSDC",
+          "name": "Cozy USD Coin",
+          "decimals": 8,
+          "tags": [],
+          "trigger": null,
+          "underlying": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "investmentOpportunities": [
+              {
+                  "invest": {
+                      "address": "0x618c91d02e2F27341870181015a39C8aB59e66d0",
+                      "signature": "function invest(address _marketAddress, uint256 _borrowAmount) external"
+                  },
+                  "divest": {
+                      "address": "0x618c91d02e2F27341870181015a39C8aB59e66d0",
+                      "signature": "function divest(address _marketAddress, address _recipient, uint256 _withdrawAmount, uint256 _excessTokens) external"
+                  },
+                  "dataURI": "https://cozy-api-eghd7vdjt-cozy-finance.vercel.app/api/opportunities/usdc-rari",
+                  "logoURI": "https://app.cozy.finance/images/tokens/usdc.png",
+                  "tokens": {
+                      "input": [
+                          "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+                      ],
+                      "receipt": [
+                          "0x016bf078ABcaCB987f0589a6d3BEAdD4316922B0"
+                      ],
+                      "rewards": []
+                  },
+                  "strategy": [
+                      {
+                          "action": "Borrow",
+                          "destination": "USD Coin",
+                          "logoURI": "https://app.cozy.finance/images/tokens/usdc.png",
+                          "platformId": 0,
+                          "token": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+                      },
+                      {
+                          "action": "Deposit to",
+                          "destination": "Rari",
+                          "logoURI": "https://app.cozy.finance/images/platforms/rari.png",
+                          "platformId": 10,
+                          "token": "0x016bf078ABcaCB987f0589a6d3BEAdD4316922B0"
+                      }
+                  ]
+              },
+              {
+                  "invest": {
+                      "address": "0x499A69D31f9c87792A873C6503af17bf9EE372bF",
+                      "signature": "function invest(address _market, uint256 _borrowAmount) external"
+                  },
+                  "divest": {
+                      "address": "0x499A69D31f9c87792A873C6503af17bf9EE372bF",
+                      "signature": "function divest(address _market, address _recipient, uint256 _yearnRedeemAmount, uint256 _excessTokens) external"
+                  },
+                  "dataURI": "https://cozy-api-eghd7vdjt-cozy-finance.vercel.app/api/opportunities/usdc-yearn",
+                  "logoURI": "https://app.cozy.finance/images/tokens/usdc.png",
+                  "tokens": {
+                      "input": [
+                          "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+                      ],
+                      "receipt": [
+                          "0x5f18C75AbDAe578b483E5F43f12a39cF75b973a9"
+                      ],
+                      "rewards": []
+                  },
+                  "strategy": [
+                      {
+                          "action": "Borrow",
+                          "destination": "USD Coin",
+                          "logoURI": "https://app.cozy.finance/images/tokens/usdc.png",
+                          "platformId": 0,
+                          "token": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+                      },
+                      {
+                          "action": "Deposit to",
+                          "destination": "Yearn",
+                          "logoURI": "https://app.cozy.finance/images/platforms/yearn.png",
+                          "platformId": 1,
+                          "token": "0x5f18C75AbDAe578b483E5F43f12a39cF75b973a9"
+                      }
+                  ]
+              },
+              {
+                  "invest": {
+                      "address": "0x97c3Cc126D64D2231c5893cBC8a9EE97057Bb9d1",
+                      "signature": "function invest(address _market, uint256 _borrowAmount, uint256 _curveMinAmountOut) external"
+                  },
+                  "divest": {
+                      "address": "0x97c3Cc126D64D2231c5893cBC8a9EE97057Bb9d1",
+                      "signature": "function divest(address _market, address _recipient, uint256 _yearnRedeemAmount, uint256 _curveMinAmountOut, uint256 _excessTokens) external"
+                  },
+                  "dataURI": "https://cozy-api-eghd7vdjt-cozy-finance.vercel.app/api/opportunities/usdc-crvusdn-yearn",
+                  "logoURI": "https://app.cozy.finance/images/tokens/crvusdn.png",
+                  "name": "crvUSDN",
+                  "tokens": {
+                      "input": [
+                          "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+                      ],
+                      "receipt": [],
+                      "rewards": []
+                  },
+                  "strategy": [
+                      {
+                          "action": "Borrow",
+                          "destination": "USDC",
+                          "logoURI": "https://app.cozy.finance/images/tokens/usdc.png",
+                          "platformId": 0,
+                          "token": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+                      },
+                      {
+                          "action": "Deposit for",
+                          "destination": "crvUSDN",
+                          "logoURI": "https://app.cozy.finance/images/tokens/crvusdn.png",
+                          "platformId": 3,
+                          "token": "0x4f3E8F405CF5aFC05D68142F3783bDfE13811522"
+                      },
+                      {
+                          "action": "Deposit to",
+                          "destination": "Yearn",
+                          "logoURI": "https://app.cozy.finance/images/platforms/yearn.png",
+                          "platformId": 1,
+                          "token": "0x3B96d491f067912D18563d56858Ba7d6EC67a6fa"
+                      }
+                  ]
+              },
+              {
+                  "invest": {
+                      "address": "0x08797B4C6d7E5A8d28C6d01070aEE73AC5Be9740",
+                      "signature": "function invest(address _market, uint256 _borrowAmount, uint256 _minAmountOut) external"
+                  },
+                  "divest": {
+                      "address": "0x08797B4C6d7E5A8d28C6d01070aEE73AC5Be9740",
+                      "signature": "function divest(address _marketAddress, address _recipient, uint256 _withdrawAmount, uint256 _excessTokens, uint256 _curveMinAmountOut) external"
+                  },
+                  "dataURI": "https://cozy-api-eghd7vdjt-cozy-finance.vercel.app/api/opportunities/usdc-usdp-convex",
+                  "logoURI": "https://app.cozy.finance/images/tokens/crvusdp.png",
+                  "name": "crvUSDP",
+                  "tokens": {
+                      "input": [
+                          "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+                      ],
+                      "receipt": [
+                          "0x7a5dc1fa2e1b10194bd2e2e9f1a224971a681444"
+                      ],
+                      "rewards": [
+                          "0xd533a949740bb3306d119cc777fa900ba034cd52",
+                          "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+                          "0x92e187a03b6cd19cb6af293ba17f2745fd2357d5"
+                      ]
+                  },
+                  "strategy": [
+                      {
+                          "action": "Borrow",
+                          "destination": "USDC",
+                          "logoURI": "https://app.cozy.finance/images/tokens/usdc.png",
+                          "platformId": 0,
+                          "token": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+                      },
+                      {
+                          "action": "Deposit for",
+                          "destination": "crvUSDP",
+                          "logoURI": "https://app.cozy.finance/images/tokens/crvusdp.png",
+                          "platformId": 3,
+                          "token": "0x4f3E8F405CF5aFC05D68142F3783bDfE13811522"
+                      },
+                      {
+                          "action": "Deposit to",
+                          "destination": "Convex",
+                          "logoURI": "https://app.cozy.finance/images/platforms/convex.png",
+                          "platformId": 12,
+                          "token": "0x7a5dc1fa2e1b10194bd2e2e9f1a224971a681444"
+                      }
+                  ]
+              }
+          ]
+      }
+  ],
+  "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+  }
+}
